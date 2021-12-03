@@ -1,0 +1,41 @@
+h3 {
+
+font-size: large !important;
+
+}
+
+.btn-success:hover {
+
+background-color: rgb(37, 178, 32);
+
+}
+
+canvas {
+
+animation-name: test;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+
+@keyframes test{
+
+from{box-shadow: 10px 10px 38px cyan;}
+to{box-shadow:10px 10px 38px 40px darkorange;}
+
+}
+
+body {
+
+text-align: center;
+background-image: url(https://cdn.wallpapersafari.com/57/90/2bNPFB.gif);
+background-size: cover;
+}
+
+
+
+
+
+
+
+          
+    
